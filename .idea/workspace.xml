@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="128a1dbf-4fea-4e98-a096-ee1c4bc40b32" name="Default Changelist" comment="app properties gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aari58eDu7Saa01vwniELLWr2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sotom\Documents\dev\java-full-stack\ppmtool\ppmtool-java\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PpmtoolApplication">
+    <configuration name="PpmtoolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sotomaque.ppmtool.PpmtoolApplication" />
+      <module name="ppmtool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sotomaque.ppmtool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sotomaque.ppmtool.jdbc.TestJdbc" />
+      <module name="ppmtool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sotomaque.ppmtool.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PpmtoolApplication" />
+        <item itemvalue="Application.TestJdbc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128a1dbf-4fea-4e98-a096-ee1c4bc40b32" name="Default Changelist" comment="" />
+      <created>1586985353915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586985353915</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added method for testing jdbc connection; began moving from h2 to sql; added gitignore for db credentials;">
+      <created>1587169609557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587169609557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="app properties gitignore">
+      <created>1587170245003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587170245003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added method for testing jdbc connection; began moving from h2 to sql; added gitignore for db credentials;" />
+    <MESSAGE value="app properties gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="app properties gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5" y="71" key="#Notifications" timestamp="1587662480438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="5" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1587662480438" />
+    <state x="2645" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588714289227">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2645" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588714289227" />
+    <state x="612" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1587665367289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587328155151" />
+    <state x="612" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587665367289" />
+    <state x="2618" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586989890567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2618" y="91" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586989890567" />
+    <state x="187" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587598774345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="187" y="262" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1587598774345" />
+    <state x="2478" y="114" key="CommitChangelistDialog2" timestamp="1587170412466">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2478" y="114" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587170412466" />
+    <state x="3140" y="275" key="FileChooserDialogImpl" timestamp="1587074413717">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3140" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587074413717" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1588714633224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588131100103" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588714633224" />
+    <state width="721" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587985550755" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1588714633224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588131100103" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588714633224" />
+    <state width="721" height="170" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587985550755" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1588714633224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588131100103" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588714633224" />
+    <state width="721" height="170" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587985550755" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1588714633224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588131100103" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588714633224" />
+    <state width="721" height="170" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587985550755" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1588713428849">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588713428849" />
+    <state x="2601" y="224" key="VCS.ChangeListViewerDialog" timestamp="1587169386999">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2601" y="224" key="VCS.ChangeListViewerDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587169386999" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1587170246887">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587170246887" />
+    <state x="90" y="65" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587599319385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="90" y="65" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1587599319385" />
+    <state x="2576" y="252" width="607" height="536" key="find.popup" timestamp="1588131641679">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="252" width="607" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588131641679" />
+    <state x="525" y="200" width="549" height="530" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587882802165" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1587708524177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587328139029" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587708524177" />
+  </component>
+</project>
